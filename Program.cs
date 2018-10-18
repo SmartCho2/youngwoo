@@ -9,7 +9,7 @@ namespace helloworld
             if (args.Length == 0)
             {
                 System.Console.WriteLine("helloworld 이름");
-                System.Console.ReadKey(); //se
+                System.Console.ReadKey(); //me
                 return;
             }
 
